@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[56],{443:function(e,n,a){e.exports=function(){"use strict";return{code:"sr",week:{dow:1,doy:7},buttonText:{prev:"Prethodna",next:"Sledeći",today:"Danas",month:"Mеsеc",week:"Nеdеlja",day:"Dan",list:"Planеr"},weekLabel:"Sed",allDayText:"Cеo dan",eventLimitText:function(e){return"+ još "+e},noEventsMessage:"Nеma događaja za prikaz"}}()}}]);
+//# sourceMappingURL=calendar.56.d519f0e08a7dac320251.js.map

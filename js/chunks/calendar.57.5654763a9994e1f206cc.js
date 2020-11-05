@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[57],{444:function(e,t,a){e.exports=function(){"use strict";return{code:"sv",week:{dow:1,doy:4},buttonText:{prev:"Förra",next:"Nästa",today:"Idag",month:"Månad",week:"Vecka",day:"Dag",list:"Program"},weekLabel:"v.",allDayText:"Heldag",eventLimitText:"till",noEventsMessage:"Inga händelser att visa"}}()}}]);
+//# sourceMappingURL=calendar.57.5654763a9994e1f206cc.js.map

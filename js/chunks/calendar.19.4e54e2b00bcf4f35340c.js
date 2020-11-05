@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[19],{406:function(e,t,o){e.exports=function(){"use strict";return{code:"es",week:{dow:1,doy:4},buttonText:{prev:"Ant",next:"Sig",today:"Hoy",month:"Mes",week:"Semana",day:"Día",list:"Agenda"},weekLabel:"Sm",allDayHtml:"Todo<br/>el día",eventLimitText:"más",noEventsMessage:"No hay eventos para mostrar"}}()}}]);
+//# sourceMappingURL=calendar.19.4e54e2b00bcf4f35340c.js.map

@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[63],{450:function(e,t,n){e.exports=function(){"use strict";return{code:"zh-tw",buttonText:{prev:"上月",next:"下月",today:"今天",month:"月",week:"週",day:"天",list:"活動列表"},weekLabel:"周",allDayText:"整天",eventLimitText:"顯示更多",noEventsMessage:"没有任何活動"}}()}}]);
+//# sourceMappingURL=calendar.63.3b647842ab74b2eb3d13.js.map

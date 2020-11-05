@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[47],{434:function(e,n,t){e.exports=function(){"use strict";return{code:"pl",week:{dow:1,doy:4},buttonText:{prev:"Poprzedni",next:"Następny",today:"Dziś",month:"Miesiąc",week:"Tydzień",day:"Dzień",list:"Plan dnia"},weekLabel:"Tydz",allDayText:"Cały dzień",eventLimitText:"więcej",noEventsMessage:"Brak wydarzeń do wyświetlenia"}}()}}]);
+//# sourceMappingURL=calendar.47.db82f4aa31b20c178766.js.map

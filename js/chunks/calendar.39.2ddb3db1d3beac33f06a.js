@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[39],{426:function(e,n,t){e.exports=function(){"use strict";return{code:"lb",week:{dow:1,doy:4},buttonText:{prev:"Zréck",next:"Weider",today:"Haut",month:"Mount",week:"Woch",day:"Dag",list:"Terminiwwersiicht"},weekLabel:"W",allDayText:"Ganzen Dag",eventLimitText:"méi",noEventsMessage:"Nee Evenementer ze affichéieren"}}()}}]);
+//# sourceMappingURL=calendar.39.2ddb3db1d3beac33f06a.js.map

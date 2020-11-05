@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[35],{422:function(e,t,n){e.exports=function(){"use strict";return{code:"ja",buttonText:{prev:"前",next:"次",today:"今日",month:"月",week:"週",day:"日",list:"予定リスト"},weekLabel:"週",allDayText:"終日",eventLimitText:function(e){return"他 "+e+" 件"},noEventsMessage:"表示する予定はありません"}}()}}]);
+//# sourceMappingURL=calendar.35.29963133833839c11da9.js.map
